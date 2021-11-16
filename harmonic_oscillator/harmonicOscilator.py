@@ -1,11 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#m y'' + tau y' + k y = cos(omega t)
+#m y'' + tau y' + k y = F cos(omega t)
 m = 1
 tau = 0
 k = 1
-omega=0
+F = 1
 
 # Initial Conditions
 t0=0
