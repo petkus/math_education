@@ -21,9 +21,7 @@ eulers_method(dy)
 
 ![output](svgs/plot.png)
 
-
-## Note for compiling Latex in README
-I am using the python script `readme2tex` (https://github.com/leegao/readme2tex). Just following the directions on their page was giving me troubles (it seemed to rely on RawGit https://rawgit.com/ which is shut down). Using the following command seems to work however!
-
-`python3 -m readme2tex --nocdn --readme INPUT.md --output README.md`
+<!--
+python3 -m readme2tex --nocdn --readme INPUT.md --output README.md
+-->
 
