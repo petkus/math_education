@@ -5,5 +5,5 @@ Each folder is a different project, although code from one project might rely on
 
 ## Each folder description
 
-- `euler_method` contains code (and soon examples) to visualize Euler's method
+- `euler_method` contains code to visualize Euler's method
 - `harmonic_oscillator` contains code to visualize a harmonic oscillator
